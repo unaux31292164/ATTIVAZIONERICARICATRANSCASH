@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 17 Mar 2022 20:53:36 at https://suiviticket.co/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://suiviticket.co/ -O1 "C:\Users\DICARDI\Desktop\aspire\aspire" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:56:02	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://suiviticket.co/verifier-un-ticket-pcs/ (from https://suiviticket.co/)
+20:56:06	Warning: 	Retry after error -5 (Unable to get server's address: Hôte inconnu. ) at link https://state-check.com/wp-content/uploads/2018/08/home_internet2_pic4.png (from https://suiviticket.co/)
+20:56:06	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://state-check.com/wp-content/uploads/2018/08/home_internet2_sectionbg4.png (from https://suiviticket.co/)
+20:56:48	Warning: 	Moved Permanently for https://suiviticket.co/?p=201
+20:56:48	Warning: 	File has moved from https://suiviticket.co/?p=201 to https://suiviticket.co/verifier-un-ticket-transcash/
+20:57:04	Warning: 	Moved Permanently for https://suiviticket.co/?p=13
+20:57:04	Warning: 	File has moved from https://suiviticket.co/?p=13 to https://suiviticket.co/contact/
+20:57:04	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://state-check.com/wp-content/uploads/2018/08/home_internet2_sectionbg3.png (from https://suiviticket.co/contact/)
+20:57:04	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://state-check.com/wp-content/uploads/2018/08/home_internet2_pic4.png (from https://suiviticket.co/)
+20:57:04	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://state-check.com/wp-content/uploads/2018/08/home_internet2_sectionbg4.png (from https://suiviticket.co/)
+20:57:04	Error: 	"Forbidden" (403) at link https://suiviticket.co/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac (from https://suiviticket.co/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.0.5)
+20:57:04	Error: 	"Forbidden" (403) at link https://suiviticket.co/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac (from https://suiviticket.co/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.0.5)
+20:57:04	Error: 	"Forbidden" (403) at link https://suiviticket.co/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac (from https://suiviticket.co/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.0.5)
+20:57:04	Error: 	"Forbidden" (403) at link https://suiviticket.co/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac (from https://suiviticket.co/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.0.5)
+20:57:07	Warning: 	Moved Permanently for https://suiviticket.co/?p=203
+20:57:07	Warning: 	File has moved from https://suiviticket.co/?p=203 to https://suiviticket.co/verifier-un-ticket-pcs/
+20:57:07	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://state-check.com/wp-content/uploads/2018/08/home_internet2_sectionbg3.png (from https://suiviticket.co/contact/)
+20:57:07	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://state-check.com/wp-content/uploads/2018/08/home_internet2_pic4.png (from https://suiviticket.co/)
+20:57:07	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://state-check.com/wp-content/uploads/2018/08/home_internet2_sectionbg4.png (from https://suiviticket.co/)
+20:57:07	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://state-check.com/wp-content/uploads/2018/08/home_internet2_sectionbg3.png (from https://suiviticket.co/contact/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 31 seconds : 223 links scanned, 205 files written (6886976 bytes overall) [3122330 bytes received at 14797 bytes/sec], 5461912 bytes transferred using HTTP compression in 104 files, ratio 29%, 5.0 requests per connection
+(7 errors, 13 warnings, 0 messages)
